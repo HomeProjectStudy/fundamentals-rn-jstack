@@ -1,4 +1,4 @@
-package com.apptest01;
+package com.mobile;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
